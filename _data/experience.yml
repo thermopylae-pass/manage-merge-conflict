@@ -1,19 +1,6 @@
 # Jobs
 # Shoptocat
-- company: GitHub.
-  position: Shoptocat
+- company: SBA
+  position: Sr. Sofware Developer
   duration: March, 2013 &mdash; Present
-  summary: Create awesome swag, ensure orders get delivered quickly, collect all the stickers.
-
-# Job Title
-- company: Conway
-  position: Web Developer
-  duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
-
-
-# Supportocat
-- company: GitHub, Inc.
-  position: Supportocat, GitHub for Business
-  duration:  October 2016 &mdash; Present
-  summary: support to customers on the GitHub for Business platform
+  summary: Code development both server/client side
